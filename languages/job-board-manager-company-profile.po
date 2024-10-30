@@ -1,0 +1,793 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Job Board Manager - Company Profile\n"
+"POT-Creation-Date: 2019-08-19 22:44+0600\n"
+"PO-Revision-Date: 2019-08-19 22:44+0600\n"
+"Last-Translator: \n"
+"Language-Team: PickPlugins\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: templates\n"
+"X-Poedit-SearchPath-1: includes\n"
+
+#: includes/class-post-meta-company-hook.php:15
+#: templates/company-edit/company-edit-hook.php:138
+#: templates/company-submit/company-submit-hook.php:127
+msgid "Company Information"
+msgstr ""
+
+#: includes/class-post-meta-company-hook.php:42
+#: templates/company-edit/company-edit-hook.php:166
+#: templates/company-submit/company-submit-hook.php:153
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company tag-line"
+msgstr "কোম্পানী শিরোনাম"
+
+#: includes/class-post-meta-company-hook.php:43
+#: templates/company-edit/company-edit-hook.php:169
+#: templates/company-submit/company-submit-hook.php:156
+msgid "Write your company tag-line"
+msgstr ""
+
+#: includes/class-post-meta-company-hook.php:67
+#: templates/company-edit/company-edit-hook.php:191
+#: templates/company-submit/company-submit-hook.php:176
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company mission"
+msgstr "কোম্পানী শিরোনাম"
+
+#: includes/class-post-meta-company-hook.php:68
+#: templates/company-edit/company-edit-hook.php:194
+#: templates/company-submit/company-submit-hook.php:179
+msgid "Write company mission."
+msgstr ""
+
+#: includes/class-post-meta-company-hook.php:96
+#: templates/company-edit/company-edit-hook.php:219
+#: templates/company-submit/company-submit-hook.php:202
+msgid "Country"
+msgstr ""
+
+#: includes/class-post-meta-company-hook.php:97
+#: templates/company-edit/company-edit-hook.php:236
+#: templates/company-submit/company-submit-hook.php:219
+msgid "Select company country."
+msgstr ""
+
+#: includes/class-post-meta-company-hook.php:121
+#: templates/company-edit/company-edit-hook.php:254
+#: templates/company-submit/company-submit-hook.php:235
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company city"
+msgstr "কোম্পানী শিরোনাম"
+
+#: includes/class-post-meta-company-hook.php:122
+#: templates/company-edit/company-edit-hook.php:257
+#: templates/company-submit/company-submit-hook.php:238
+msgid "Write company city"
+msgstr ""
+
+#: includes/class-post-meta-company-hook.php:147
+#: templates/company-edit/company-edit-hook.php:276
+#: templates/company-submit/company-submit-hook.php:255
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company address"
+msgstr "কোম্পানী শিরোনাম"
+
+#: includes/class-post-meta-company-hook.php:148
+#: templates/company-edit/company-edit-hook.php:279
+#: templates/company-submit/company-submit-hook.php:258
+msgid "Write company address"
+msgstr ""
+
+#: includes/class-post-meta-company-hook.php:195
+#: templates/company-edit/company-edit-hook.php:317
+#: templates/company-submit/company-submit-hook.php:274
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company logo"
+msgstr "কোম্পানী শিরোনাম"
+
+#: includes/class-post-meta-company-hook.php:196
+#: templates/company-edit/company-edit-hook.php:327
+#: templates/company-submit/company-submit-hook.php:284
+msgid "Upload company logo"
+msgstr ""
+
+#: includes/class-post-meta-company-hook.php:218
+#: templates/company-edit/company-edit-hook.php:348
+#: templates/company-submit/company-submit-hook.php:328
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company website"
+msgstr "কোম্পানী শিরোনাম"
+
+#: includes/class-post-meta-company-hook.php:219
+msgid "Write company website"
+msgstr ""
+
+#: includes/class-post-meta-company-hook.php:243
+#: templates/company-edit/company-edit-hook.php:370
+#: templates/company-submit/company-submit-hook.php:348
+msgid "Company founded year"
+msgstr ""
+
+#: includes/class-post-meta-company-hook.php:244
+#: templates/company-edit/company-edit-hook.php:373
+#: templates/company-submit/company-submit-hook.php:351
+msgid "Write company founded year"
+msgstr ""
+
+#: includes/class-post-meta-company-hook.php:266
+#: templates/company-edit/company-edit-hook.php:394
+#: templates/company-submit/company-submit-hook.php:370
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company worker size"
+msgstr "কোম্পানী শিরোনাম"
+
+#: includes/class-post-meta-company-hook.php:267
+#: templates/company-submit/company-submit-hook.php:373
+msgid "Write company worker size"
+msgstr ""
+
+#: includes/class-post-meta-company-hook.php:311
+msgid "Featured company"
+msgstr ""
+
+#: includes/class-post-meta-company-hook.php:312
+msgid "Choose company as featured"
+msgstr ""
+
+#: includes/class-post-meta-company-hook.php:316
+#: includes/functions-settings.php:126 includes/functions-settings.php:141
+#: includes/functions-settings.php:216
+msgid "No"
+msgstr ""
+
+#: includes/class-post-meta-company-hook.php:316
+#: includes/functions-settings.php:126 includes/functions-settings.php:141
+#: includes/functions-settings.php:216
+msgid "Yes"
+msgstr ""
+
+#: includes/class-post-meta-company.php:23
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company data"
+msgstr "কোম্পানী শিরোনাম"
+
+#: includes/class-post-meta-company.php:49
+#, fuzzy, php-format
+#| msgid "Company Title"
+msgid "%s Company info"
+msgstr "কোম্পানী শিরোনাম"
+
+#: includes/class-post-meta-company.php:57
+#, php-format
+msgid "%s Admin action"
+msgstr ""
+
+#: includes/class-post-types.php:25
+msgid "Company"
+msgstr ""
+
+#: includes/class-post-types.php:26
+#, fuzzy
+#| msgid "Company Title"
+msgid "Companies"
+msgstr "কোম্পানী শিরোনাম"
+
+#: includes/class-post-types.php:35 includes/class-post-types.php:87
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: includes/class-post-types.php:36
+msgid "Add New"
+msgstr ""
+
+#: includes/class-post-types.php:37
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: includes/class-post-types.php:38
+msgid "Edit"
+msgstr ""
+
+#: includes/class-post-types.php:39 includes/class-post-types.php:90
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/class-post-types.php:40
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: includes/class-post-types.php:41 includes/class-post-types.php:42
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: includes/class-post-types.php:43 includes/class-post-types.php:86
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: includes/class-post-types.php:44
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: includes/class-post-types.php:45
+#, php-format
+msgid "No %s found in trash"
+msgstr ""
+
+#: includes/class-post-types.php:46 includes/class-post-types.php:88
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: includes/class-post-types.php:48
+#, php-format
+msgid "This is where you can create and manage %s."
+msgstr ""
+
+#: includes/class-post-types.php:72
+msgid "Company Category"
+msgstr ""
+
+#: includes/class-post-types.php:73
+msgid "Company Categories"
+msgstr ""
+
+#: includes/class-post-types.php:89
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/class-post-types.php:91
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: includes/class-post-types.php:92
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: includes/class-post-types.php:93
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: includes/class-shortcodes.php:55
+#, php-format
+msgid ""
+"Company id is invalid. please go to %s » <a href=\"%s\">My Companies</a> see "
+"your companies."
+msgstr ""
+
+#: includes/class-shortcodes.php:71
+#, php-format
+msgid "Please <a href=\"%s\">login</a> to edit job."
+msgstr ""
+
+#: includes/class-shortcodes.php:80
+msgid "Sorry! you are not authorized to edit this company."
+msgstr ""
+
+#: includes/functions-dashboard.php:9
+msgid "My companies"
+msgstr ""
+
+#: includes/functions-settings.php:10
+#, fuzzy, php-format
+#| msgid "Company Title"
+msgid "%s Company"
+msgstr "কোম্পানী শিরোনাম"
+
+#: includes/functions-settings.php:37
+msgid "Company page settings"
+msgstr ""
+
+#: includes/functions-settings.php:38
+msgid "Choose option for pages."
+msgstr ""
+
+#: includes/functions-settings.php:46
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company submit page"
+msgstr "কোম্পানী শিরোনাম"
+
+#: includes/functions-settings.php:47
+msgid ""
+"Choose the page for company submit page, where the shortcode "
+"<code>[job_bm_company_submit_form]</code> used."
+msgstr ""
+
+#: includes/functions-settings.php:63
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company edit page"
+msgstr "কোম্পানী শিরোনাম"
+
+#: includes/functions-settings.php:64
+msgid ""
+"Choose the page for company edit page, where the shortcode "
+"<code>[job_bm_company_edit_form]</code> used."
+msgstr ""
+
+#: includes/functions-settings.php:111
+msgid "Company submission"
+msgstr ""
+
+#: includes/functions-settings.php:112
+msgid "Customize option for company submit."
+msgstr ""
+
+#: includes/functions-settings.php:120
+msgid "Account required"
+msgstr ""
+
+#: includes/functions-settings.php:121
+msgid "Account required to submit company."
+msgstr ""
+
+#: includes/functions-settings.php:135 includes/functions-settings.php:210
+msgid "reCAPTCHA enable"
+msgstr ""
+
+#: includes/functions-settings.php:136
+msgid "Enable reCAPTCHA to protect spam on company submit form."
+msgstr ""
+
+#: includes/functions-settings.php:152
+msgid "Submitted company status"
+msgstr ""
+
+#: includes/functions-settings.php:153
+msgid "Choose company status for newly submitted companies."
+msgstr ""
+
+#: includes/functions-settings.php:158 includes/functions-settings.php:233
+msgid "Draft"
+msgstr ""
+
+#: includes/functions-settings.php:158 includes/functions-settings.php:233
+msgid "Pending"
+msgstr ""
+
+#: includes/functions-settings.php:158 includes/functions-settings.php:233
+msgid "Published"
+msgstr ""
+
+#: includes/functions-settings.php:158 includes/functions-settings.php:233
+msgid "Private"
+msgstr ""
+
+#: includes/functions-settings.php:158 includes/functions-settings.php:233
+msgid "Trash"
+msgstr ""
+
+#: includes/functions-settings.php:170 includes/functions-settings.php:245
+msgid "-- Company Preview --"
+msgstr ""
+
+#: includes/functions-settings.php:171 includes/functions-settings.php:246
+msgid "-- Company Link --"
+msgstr ""
+
+#: includes/functions-settings.php:176
+msgid "Redirect after company submit"
+msgstr ""
+
+#: includes/functions-settings.php:177
+msgid "Redirect other link after company submitted"
+msgstr ""
+
+#: includes/functions-settings.php:200
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company Edit"
+msgstr "কোম্পানী শিরোনাম"
+
+#: includes/functions-settings.php:201
+msgid "Customize option for company edit."
+msgstr ""
+
+#: includes/functions-settings.php:211
+msgid "Enable reCAPTCHA to protect spam on company edit form."
+msgstr ""
+
+#: includes/functions-settings.php:227
+msgid "Edited company status"
+msgstr ""
+
+#: includes/functions-settings.php:228
+msgid "Choose company status for newly edited companies."
+msgstr ""
+
+#: includes/functions-settings.php:251
+msgid "Redirect after company edit"
+msgstr ""
+
+#: includes/functions-settings.php:252
+msgid "Redirect other link after company edited"
+msgstr ""
+
+#: includes/functions.php:16
+msgid "You are not authorized to delete this job."
+msgstr ""
+
+#: includes/functions.php:32
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company Deleted."
+msgstr "কোম্পানী শিরোনাম"
+
+#: includes/functions.php:39
+msgid "Something going wrong."
+msgstr ""
+
+#: includes/functions.php:46
+msgid "You are not authorized to delete this company."
+msgstr ""
+
+#: includes/functions.php:114
+msgid "Please login first."
+msgstr ""
+
+#: includes/functions.php:170 includes/functions.php:176
+msgid "Nothing found"
+msgstr ""
+
+#: includes/menu/update-company-logo.php:106
+msgid "No company found"
+msgstr ""
+
+#: templates/company-edit/company-edit-hook.php:18
+#: templates/company-submit/company-submit-hook.php:16
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company name"
+msgstr "কোম্পানী শিরোনাম"
+
+#: templates/company-edit/company-edit-hook.php:21
+#: templates/company-submit/company-submit-hook.php:19
+msgid "Write your company name"
+msgstr ""
+
+#: templates/company-edit/company-edit-hook.php:44
+#: templates/company-submit/company-submit-hook.php:40
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company description"
+msgstr "কোম্পানী শিরোনাম"
+
+#: templates/company-edit/company-edit-hook.php:54
+#: templates/company-submit/company-submit-hook.php:50
+msgid "Write your company details."
+msgstr ""
+
+#: templates/company-edit/company-edit-hook.php:101
+#: templates/company-submit/company-submit-hook.php:90
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company category"
+msgstr "কোম্পানী শিরোনাম"
+
+#: templates/company-edit/company-edit-hook.php:118
+#: templates/company-submit/company-submit-hook.php:107
+msgid "Select company category."
+msgstr ""
+
+#: templates/company-edit/company-edit-hook.php:324
+#: templates/company-submit/company-submit-hook.php:281
+#: templates/company-submit/company-submit-hook.php:306
+msgid "Upload"
+msgstr ""
+
+#: templates/company-edit/company-edit-hook.php:351
+#: templates/company-submit/company-submit-hook.php:331
+#, fuzzy
+#| msgid "Company Title"
+msgid "Write company website "
+msgstr "কোম্পানী শিরোনাম"
+
+#: templates/company-edit/company-edit-hook.php:372
+#: templates/company-submit/company-submit-hook.php:350
+msgid "1980"
+msgstr ""
+
+#: templates/company-edit/company-edit-hook.php:397
+#, fuzzy
+#| msgid "Company Title"
+msgid "Write company worker szie"
+msgstr "কোম্পানী শিরোনাম"
+
+#: templates/company-edit/company-edit-hook.php:431
+#: templates/company-submit/company-submit-hook.php:407
+msgid "Please prove you are human."
+msgstr ""
+
+#: templates/company-edit/company-edit-hook.php:468
+#: templates/company-single/company-single-hook.php:612
+#: templates/company-submit/company-submit-hook.php:444
+msgid "Submit"
+msgstr ""
+
+#: templates/company-edit/company-edit-hook.php:504
+#: templates/company-submit/company-submit-hook.php:480
+msgid "ERROR: Company name is empty."
+msgstr ""
+
+#: templates/company-edit/company-edit-hook.php:509
+#: templates/company-submit/company-submit-hook.php:485
+msgid "ERROR: Company details is empty."
+msgstr ""
+
+#: templates/company-edit/company-edit-hook.php:514
+#: templates/company-submit/company-submit-hook.php:490
+msgid "ERROR: Company tag-line is empty."
+msgstr ""
+
+#: templates/company-edit/company-edit-hook.php:521
+#: templates/company-submit/company-submit-hook.php:497
+msgid "ERROR: Company size is empty."
+msgstr ""
+
+#: templates/company-edit/company-edit-hook.php:531
+#: templates/company-submit/company-submit-hook.php:507
+msgid "ERROR: Company logo is empty."
+msgstr ""
+
+#: templates/company-edit/company-edit-hook.php:536
+#: templates/company-submit/company-submit-hook.php:512
+msgid "ERROR: reCaptcha test failed."
+msgstr ""
+
+#: templates/company-edit/company-edit-hook.php:541
+#: templates/company-submit/company-submit-hook.php:517
+#, php-format
+msgid ""
+"ERROR: Please <a target=\"_blank\" href=\"%s\">login</a> to submit question."
+msgstr ""
+
+#: templates/company-edit/company-edit-hook.php:547
+#: templates/company-single/company-single-hook.php:681
+#: templates/company-submit/company-submit-hook.php:523
+msgid "ERROR: security test failed."
+msgstr ""
+
+#: templates/company-edit/company-edit-hook.php:656
+msgid "Thanks for update your company."
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:189
+msgid "Unfollow"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:192
+msgid "Follow"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:243
+#, php-format
+msgid "%s Descriptions"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:250
+#, php-format
+msgid "%s Jobs"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:257
+#, php-format
+msgid "%s Reviews"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:336
+msgid "Quick overview"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:342
+#, php-format
+msgid "%s Address: %s"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:348
+#, php-format
+msgid "%s Website: %s"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:354
+#, php-format
+msgid "%s Founded: %s"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:360
+#, php-format
+msgid "%s Size: %s"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:366
+#, php-format
+msgid "%s Revenue: %s"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:386
+#, php-format
+msgid "%s Type: %s"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:403
+msgid "Company Descriptions"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:423
+msgid "Latest Jobs"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:456
+msgid "Latest Reviews"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:522
+msgid "No reviews yet. "
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:532
+msgid "Write a reviews"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:565
+msgid "Rating"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:568
+msgid "Best"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:569
+msgid "Pretty Good"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:570
+msgid "Good"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:571
+msgid "Poor"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:572
+msgid "Very Poor"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:575
+msgid "Choose your rating"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:589
+msgid "Write your feedback"
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:592
+msgid "Write your reviews here."
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:660
+msgid "ERROR: Review rate is empty."
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:665
+msgid "ERROR: Review text is empty."
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:675
+#, php-format
+msgid ""
+"ERROR: Please <a target=\"_blank\" href=\"%s\">login</a> to submit reviews."
+msgstr ""
+
+#: templates/company-single/company-single-hook.php:751
+msgid "Thanks for submit reviews."
+msgstr ""
+
+#: templates/company-submit/company-submit-hook.php:299
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company cover image"
+msgstr "কোম্পানী শিরোনাম"
+
+#: templates/company-submit/company-submit-hook.php:309
+msgid "Upload company cover image"
+msgstr ""
+
+#: templates/company-submit/company-submit-hook.php:630
+msgid "Thanks for submit your company, we will review soon."
+msgstr ""
+
+#: templates/my-companies/my-companies-hook.php:17
+#, fuzzy
+#| msgid "Company Title"
+msgid "My Companies"
+msgstr "কোম্পানী শিরোনাম"
+
+#: templates/my-companies/my-companies-hook.php:18
+msgid "Add Company"
+msgstr ""
+
+#: templates/my-companies/my-companies-hook.php:142
+#, php-format
+msgid "%s You haven't created any company."
+msgstr ""
+
+#: templates/my-companies/my-companies-hook.php:152
+#, php-format
+msgid "Please <a href=\"%s\">login</a> to see your companies."
+msgstr ""
+
+#: templates/my-companies/my-companies-hook.php:202
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company id."
+msgstr "কোম্পানী শিরোনাম"
+
+#: templates/my-companies/my-companies-hook.php:206
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company edit."
+msgstr "কোম্পানী শিরোনাম"
+
+#: templates/my-companies/my-companies-hook.php:212
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company trash."
+msgstr "কোম্পানী শিরোনাম"
+
+#: templates/my-companies/my-companies-hook.php:213
+msgid "Featured company."
+msgstr ""
+
+#: templates/my-companies/my-companies-hook.php:215
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company size."
+msgstr "কোম্পানী শিরোনাম"
+
+#: templates/my-companies/my-companies-hook.php:251
+#, fuzzy
+#| msgid "Company Title"
+msgid "Company link."
+msgstr "কোম্পানী শিরোনাম"
+
+#: templates/my-companies/my-companies-hook.php:253
+msgid "Published:"
+msgstr ""
+
+#: templates/my-companies/my-companies-hook.php:254
+msgid "Publish Status:"
+msgstr ""
+
+#: templates/my-companies/my-companies-hook.php:255
+msgid "Featured:"
+msgstr ""
+
+#~ msgid "Company Title"
+#~ msgstr "কোম্পানী শিরোনাম"
